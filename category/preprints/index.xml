@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprints | βΔ</title>
+    <link>https://wdvorkin.github.io/category/preprints/</link>
+      <atom:link href="https://wdvorkin.github.io/category/preprints/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preprints</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wdvorkin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Preprints</title>
+      <link>https://wdvorkin.github.io/category/preprints/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Convex Optimization with Feasibility Guarantees</title>
+      <link>https://wdvorkin.github.io/publication/2020_dfvpk_diff_prep/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dfvpk_diff_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Control and Pricing for Natural Gas Networks</title>
+      <link>https://wdvorkin.github.io/publication/2020_drpk_stochastic/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_drpk_stochastic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

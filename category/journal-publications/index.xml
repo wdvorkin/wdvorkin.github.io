@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal publications | βΔ</title>
+    <link>https://wdvorkin.github.io/category/journal-publications/</link>
+      <atom:link href="https://wdvorkin.github.io/category/journal-publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wdvorkin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Journal publications</title>
+      <link>https://wdvorkin.github.io/category/journal-publications/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Optimal Power Flow for Distribution Grids</title>
+      <link>https://wdvorkin.github.io/publication/2020_dfvpk_diff/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dfvpk_diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electricity market equilibrium under information asymmetry</title>
+      <link>https://wdvorkin.github.io/publication/2019_dkp_electricity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_dkp_electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting reserve requirements to approximate the efficiency of the stochastic dispatch</title>
+      <link>https://wdvorkin.github.io/publication/2019_ddm_setting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_ddm_setting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

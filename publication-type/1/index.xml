@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | βΔ</title>
+    <link>https://wdvorkin.github.io/publication-type/1/</link>
+      <atom:link href="https://wdvorkin.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wdvorkin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://wdvorkin.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Differentially private distributed optimal power flow</title>
+      <link>https://wdvorkin.github.io/publication/2020_dvpk_diff/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dvpk_diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chance-constrained equilibrium in electricity markets with asymmetric forecasts</title>
+      <link>https://wdvorkin.github.io/publication/2020_dkp_chance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dkp_chance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accommodating bounded rationality in pricing demand response</title>
+      <link>https://wdvorkin.github.io/publication/2019_rdp_boundedrationality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_rdp_boundedrationality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consensus-ADMM approach for strategic generation investment in electricity markets</title>
+      <link>https://wdvorkin.github.io/publication/2018_dkbp_consensus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2018_dkbp_consensus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

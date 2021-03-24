@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications and Working Papers | βΔ</title>
+    <link>https://wdvorkin.github.io/publication/</link>
+      <atom:link href="https://wdvorkin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications and Working Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wdvorkin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications and Working Papers</title>
+      <link>https://wdvorkin.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Convex Optimization with Feasibility Guarantees</title>
+      <link>https://wdvorkin.github.io/publication/2020_dfvpk_diff_prep/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dfvpk_diff_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially private distributed optimal power flow</title>
+      <link>https://wdvorkin.github.io/publication/2020_dvpk_diff/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dvpk_diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentially Private Optimal Power Flow for Distribution Grids</title>
+      <link>https://wdvorkin.github.io/publication/2020_dfvpk_diff/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dfvpk_diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Control and Pricing for Natural Gas Networks</title>
+      <link>https://wdvorkin.github.io/publication/2020_drpk_stochastic/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_drpk_stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chance-constrained equilibrium in electricity markets with asymmetric forecasts</title>
+      <link>https://wdvorkin.github.io/publication/2020_dkp_chance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2020_dkp_chance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accommodating bounded rationality in pricing demand response</title>
+      <link>https://wdvorkin.github.io/publication/2019_rdp_boundedrationality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_rdp_boundedrationality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electricity market equilibrium under information asymmetry</title>
+      <link>https://wdvorkin.github.io/publication/2019_dkp_electricity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_dkp_electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting reserve requirements to approximate the efficiency of the stochastic dispatch</title>
+      <link>https://wdvorkin.github.io/publication/2019_ddm_setting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2019_ddm_setting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consensus-ADMM approach for strategic generation investment in electricity markets</title>
+      <link>https://wdvorkin.github.io/publication/2018_dkbp_consensus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://wdvorkin.github.io/publication/2018_dkbp_consensus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
