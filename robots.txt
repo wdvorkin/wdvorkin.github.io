@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wdvorkin.github.io/sitemap.xml
