@@ -678,6 +678,23 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
         
         
         
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
 
         
         
@@ -887,7 +904,7 @@ data.head()
 
 
 
-<div id="chart-936548127" class="chart"></div>
+<div id="chart-751298346" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -897,7 +914,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-936548127', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-751298346', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
